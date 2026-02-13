@@ -31,7 +31,7 @@ Focuses on orchestrating containers at scale.
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/CloudLearning.git
+https://github.com/medasani456/CloudLeraningDocs.git
 
 ```
 
