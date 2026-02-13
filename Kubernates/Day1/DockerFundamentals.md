@@ -51,4 +51,4 @@ Docker isn't "magic"; it uses two main Linux kernel features to create isolation
 
 If you are adding this to your `Docker/notes.md` file, you can add a link to the original source to keep track of your progress:
 
-> *Source: [Piyush Sachdeva CKA-2024 Day 01*](https://www.google.com/search?q=https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day01)
+> *Source: [Piyush Sachdeva CKA-2024 Day 01*](https://github.com/piyushsachdeva/CKA-2024/blob/main/Resources/Day01/README.md)
